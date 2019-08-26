@@ -27,11 +27,10 @@ We also collect some papers about plane&object detection, depth pridiction and s
 * `ICRA2018`A Monocular SLAM System Leveraging Structural Regularity in Manhattan World [(link)](https://ieeexplore.ieee.org/document/8463165)
   `camera pose estimation` `3D map` `man-made environments `
 
-
-## Stereo SLAM
-
 * `ICRA2018`ProSLAM: Graph SLAM from a Programmer's Perspective [(link)](https://ieeexplore.ieee.org/document/8461180)
   `lightweight` `less computation`
+  
+## Stereo SLAM
 
 ## Visual Odemeter(VO)
 
