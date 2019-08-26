@@ -20,8 +20,18 @@ We also collect some papers about plane&object detection, depth pridiction and s
   TU Munich
   * Estimating the absolute scale of the reconstruction. obtaining dense depths along texture-less regions and dealing with pure rotational motions
   * privileges depth prediction in image locations where monocular SLAM approaches tend to fail. 
+  
+* `ICRA2018`Constructing Category-Specific Models for Monocular Object-SLAM [(link)](https://ieeexplore.ieee.org/document/8460816)
+  `CAD`
+  
+* `ICRA2018`A Monocular SLAM System Leveraging Structural Regularity in Manhattan World [(link)](https://ieeexplore.ieee.org/document/8463165)
+  `camera pose estimation` `3D map` `man-made environments `
+
 
 ## Stereo SLAM
+
+* `ICRA2018`ProSLAM: Graph SLAM from a Programmer's Perspective [(link)](https://ieeexplore.ieee.org/document/8461180)
+  `lightweight` `less computation`
 
 ## Visual Odemeter(VO)
 
