@@ -62,7 +62,8 @@ We also collect some papers about plane&object detection, depth pridiction and s
 * `ICRA2018`Robust Stereo Visual Inertial Odometry for Fast Autonomous Flight[(link)](https://ieeexplore.ieee.org/document/8258858)
   `fast flight`
   
-
+* `ICRA2018`UnDeepVO: Monocular Visual Odometry Through Unsupervised Deep Learning[(link)](https://ieeexplore.ieee.org/document/8461251)
+  `depth` `Monocular` `deep neural networks` ``
 
 # Related work
 
@@ -76,6 +77,9 @@ We also collect some papers about plane&object detection, depth pridiction and s
 
 * `ICRA2018` Bayesian Scale Estimation for Monocular SLAM Based on Generic Object Detection for Correcting Scale Drift [(link)](https://ieeexplore.ieee.org/document/8461178) 
   `Object detection` `Monocular` `3D`
+
+* `ICRA2018` Driven to Distraction: Self-Supervised Distractor Learning for Robust Monocular Visual Odometry in Urban Environments[(link)](https://ieeexplore.ieee.org/document/8460564) 
+  `deep convolutional network` `Monocular` `driving`
   
 
 
